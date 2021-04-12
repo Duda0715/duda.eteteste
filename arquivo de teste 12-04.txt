@@ -1,2 +1,6 @@
 Arquivo criado 12-04
+<<<<<<< HEAD
 Alteração no bloco de notas
+=======
+Alteração no github
+>>>>>>> fd13aee2cd86a7bb2a40b9660c1e88ff2c0f9ae0

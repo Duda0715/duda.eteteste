@@ -1,4 +1,0 @@
-
-Linha alterada no meu pc, simulando conflito 12-04
-Lista alterada no github do navegador. Vamos ver se dá conflito.
-
